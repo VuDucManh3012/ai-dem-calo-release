@@ -1,0 +1,7 @@
+﻿{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.0.0/ai_dem_calo.apk",
+  "changelog": "- Bản phát hành đầu tiên v1.0.0\n- Nhận diện món ăn & tính Calo tự động qua Google Gemini AI\n- Giao diện Dark/Light Mode chuyển đổi mượt mà\n- Tích hợp tính năng Tự động Cập nhật trong ứng dụng (In-App Auto Update)",
+  "publishedAt": "2026-11-16T00:00:00Z"
+}
