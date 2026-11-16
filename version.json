@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.2.1/ai_dem_calo.apk",
-  "changelog": "- Kiểm tra cập nhật báo lỗi đúng nguyên nhân: chỉ nhắc kiểm tra mạng khi thật sự mất mạng\n- Thống kê sử dụng ẩn danh và báo lỗi (Firebase) để sửa lỗi nhanh hơn. Không gửi tên món, ảnh, cân nặng hay API key.",
-  "publishedAt": "2026-11-16T07:29:03Z"
+  "versionCode": 5,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.3.0/ai_dem_calo.apk",
+  "changelog": "- Đăng nhập Google (không bắt buộc) để đồng bộ bữa ăn, hồ sơ, cân nặng lên cloud và dùng chung trên nhiều máy, kể cả bản web\n- Gemini API key không bao giờ được đưa lên cloud\n- Bản web cho iPhone: ai-dem-calo-2683.web.app",
+  "publishedAt": "2026-11-16T09:32:06Z"
 }
