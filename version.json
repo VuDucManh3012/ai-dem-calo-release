@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.2.0/ai_dem_calo.apk",
-  "changelog": "- Thêm thống kê sử dụng ẩn danh và báo lỗi (Firebase) để sửa lỗi nhanh hơn. Không gửi tên món, ảnh, cân nặng hay API key.",
-  "publishedAt": "2026-11-16T07:19:39Z"
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.2.1/ai_dem_calo.apk",
+  "changelog": "- Kiểm tra cập nhật báo lỗi đúng nguyên nhân: chỉ nhắc kiểm tra mạng khi thật sự mất mạng\n- Thống kê sử dụng ẩn danh và báo lỗi (Firebase) để sửa lỗi nhanh hơn. Không gửi tên món, ảnh, cân nặng hay API key.",
+  "publishedAt": "2026-11-16T07:29:03Z"
 }
