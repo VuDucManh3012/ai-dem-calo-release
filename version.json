@@ -1,7 +1,0 @@
-{
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.1.0/ai_dem_calo.apk",
-  "changelog": "⚠️ Đang dùng bản 1.0.0: hãy GỠ app cũ rồi cài bản này (bản mới dùng chứng chỉ ký mới nên không cài đè được).\n- Viết lại toàn bộ app, dữ liệu lưu trên máy, chạy offline\n- Tự tính mục tiêu kcal và đạm/tinh bột/béo theo hồ sơ\n- Thêm bữa bằng ảnh, mô tả (Gemini AI) hoặc nhập tay; sửa được kết quả\n- Nhật ký theo tuần, tab Tiến độ với biểu đồ kcal và cân nặng\n- Không còn xin quyền Camera/Bộ nhớ; cập nhật được kiểm tra chữ ký",
-  "publishedAt": "2026-11-16T06:58:17Z"
-}
