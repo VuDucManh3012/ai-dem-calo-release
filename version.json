@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.4.3/ai_dem_calo.apk",
-  "changelog": "- AI dùng model nhanh hơn, hết báo \"Gemini phản hồi quá lâu\"\n- Ô khối lượng gõ được ngay, không cần đợi AI",
-  "publishedAt": "2026-11-19T08:35:00Z"
+  "versionCode": 12,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.4.4/ai_dem_calo.apk",
+  "changelog": "- AI tự thử lại khi máy chủ Gemini lỗi tạm thời\n- Thông báo lỗi ghi rõ mã và lý do từ Google",
+  "publishedAt": "2026-11-19T08:50:00Z"
 }
