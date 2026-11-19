@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.4.0/ai_dem_calo.apk",
-  "changelog": "- Chỉnh món ăn theo số gram, calo và các chất tự tính lại\n- Nhập thủ công: gõ tên món, AI tính dinh dưỡng cho 100g rồi chỉnh gram",
-  "publishedAt": "2026-11-19T07:55:31Z"
+  "versionCode": 9,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.4.1/ai_dem_calo.apk",
+  "changelog": "- Nút AI cạnh tên món: tính dinh dưỡng cho 100g\n- Ô khối lượng (gram) cho cả món, calo tự tính lại\n- Bỏ chọn ½/1/2 phần, thay bằng số gram",
+  "publishedAt": "2026-11-19T08:08:08Z"
 }
