@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.4.1/ai_dem_calo.apk",
-  "changelog": "- Nút AI cạnh tên món: tính dinh dưỡng cho 100g\n- Ô khối lượng (gram) cho cả món, calo tự tính lại\n- Bỏ chọn ½/1/2 phần, thay bằng số gram",
-  "publishedAt": "2026-11-19T08:08:08Z"
+  "versionCode": 10,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.4.2/ai_dem_calo.apk",
+  "changelog": "- AI trả lời nhanh hơn, hết báo \"Gemini phản hồi quá lâu\"\n- Thông báo có bản mới hiện ngay khi mở app",
+  "publishedAt": "2026-11-19T08:30:00Z"
 }
