@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.4",
-  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.4.4/ai_dem_calo.apk",
-  "changelog": "- AI tự thử lại khi máy chủ Gemini lỗi tạm thời\n- Thông báo lỗi ghi rõ mã và lý do từ Google",
-  "publishedAt": "2026-11-19T08:50:00Z"
+  "versionCode": 13,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/VuDucManh3012/ai-dem-calo-release/releases/download/v1.5.0/ai_dem_calo.apk",
+  "changelog": "- Gợi ý món ăn khi gõ tên món, không cần gõ dấu\n- Chọn gợi ý là có calo ngay, không phải chờ AI",
+  "publishedAt": "2026-11-23T14:55:00Z"
 }
